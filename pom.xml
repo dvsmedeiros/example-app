@@ -18,8 +18,8 @@
 	</parent>
 
 	<modules>
-    <module>report-client</module>
-		<module>report-server</module>    
+    <module>report-client</module> <!-- fronend vue.js -->
+		<module>report-server</module> <!-- backend -->    
 	</modules>
 
 </project>
